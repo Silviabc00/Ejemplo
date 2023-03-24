@@ -3,4 +3,5 @@
 [![github](https://img.shields.io/badge/GITHUB-Silviabc00-000000?style=for-the-badge&logo=GITHUB&logoColor=white)](https://github.com/Silviabc00)
 
 # Más sobre mí
-[![github](https://img.shields.io/badge/ADOBEILLUSTRATOR-#FF9A00?style=for-the-badge&logo=ADOBEILLUSTRATOR&logoColor=white)
+(https://img.shields.io/badge/adobeillustrator-ADOBE%20ILLUSTRATOR-%23FF9A00)
+https://img.shields.io/badge/adobeillustrator-ADOBE%20ILLUSTRATOR-%23FF9A00
